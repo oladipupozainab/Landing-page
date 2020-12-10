@@ -1,0 +1,23 @@
+@media screen and (max-width: 500px){
+    .parent{
+        margin-left:  70px;
+        width: 85%;
+        margin-top: 30px;
+    }
+    .logo{
+        margin-left: -55px;
+    }
+    .line{
+        margin-left: 90px;
+    }
+    .header{
+        height: 300px;
+    }
+  .old{
+      margin-left: 0px;
+  }
+  .main{
+      height: 550px;
+  }
+}
+
