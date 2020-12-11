@@ -1,7 +1,7 @@
 @media screen and (max-width: 500px){
     .parent{
-        margin-left:  70px;
-        width: 85%;
+        margin-left:  40px;
+        width: 60%;
         margin-top: 30px;
     }
     .logo{
@@ -19,5 +19,12 @@
   .main{
       height: 550px;
   }
+  .hi{
+      margin-top: -10px;
+  }
+  .im{
+    margin-top: -20px;
+  }
+   
 }
 
